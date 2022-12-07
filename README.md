@@ -16,3 +16,4 @@ Scripts written in Python:
 | [`0x01-python-if_else_loops_functions`](https://github.com/risecodesleep/alx-higher_level_programming/tree/master/0x01-python-if_else_loops_functions) | The aim of this project is to learn about if/else statements, loops, range and functions in **Python** |
 | [`0x02-python-import_modules`](https://github.com/risecodesleep/alx-higher_level_programming/tree/master/0x02-python-import_modules) | This project focuses on function imports and creating modules with **Python** |
 | [`0x03-python-data_structures`](https://github.com/risecodesleep/alx-higher_level_programming/tree/master/0x03-python-data_structures) | This project focuses on Python data structures - lists and tuples in **Python**. |
+| [`0x04-python-more_data_structures`](https://github.com/risecodesleep/alx-higher_level_programming/tree/master/0x04-python-more_data_structures) | This project focuses more on data structures - sets and dictionaries in **Python**. |
